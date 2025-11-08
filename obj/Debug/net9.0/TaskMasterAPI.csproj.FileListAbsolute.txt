@@ -31,3 +31,6 @@ C:\Users\tamac\Documents\1.Desarrollo\DevTalles\CursoScharp\TaskMasterAPI\obj\De
 C:\Users\tamac\Documents\1.Desarrollo\DevTalles\CursoScharp\TaskMasterAPI\obj\Debug\net9.0\TaskMasterAPI.pdb
 C:\Users\tamac\Documents\1.Desarrollo\DevTalles\CursoScharp\TaskMasterAPI\obj\Debug\net9.0\TaskMasterAPI.genruntimeconfig.cache
 C:\Users\tamac\Documents\1.Desarrollo\DevTalles\CursoScharp\TaskMasterAPI\obj\Debug\net9.0\ref\TaskMasterAPI.dll
+C:\Users\tamac\Documents\1.Desarrollo\DevTalles\CursoScharp\TaskMasterAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tamac\Documents\1.Desarrollo\DevTalles\CursoScharp\TaskMasterAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tamac\Documents\1.Desarrollo\DevTalles\CursoScharp\TaskMasterAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
