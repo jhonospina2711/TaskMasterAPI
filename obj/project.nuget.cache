@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v+mLgG191Lo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tamac\\Documents\\1.Desarrollo\\DevTalles\\CursoScharp\\TaskMasterAPI\\TaskMasterAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamac\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\tamac\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
